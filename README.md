@@ -42,6 +42,11 @@ A fully responsive web application for hosting and managing a department's annua
 ---
 
 ## 🧠 Backend (Node.js + Express + MongoDB)
+The backend for this project is managed in a **separate repository**.
+
+👉 Visit the backend repo here: [https://github.com/your-username/xyz](https://github.com/your-username/xyz)
+
+That repository includes: 
 
 ### ⚙️ Features
 
