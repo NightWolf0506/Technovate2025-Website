@@ -44,7 +44,7 @@ A fully responsive web application for hosting and managing a department's annua
 ## 🧠 Backend (Node.js + Express + MongoDB)
 The backend for this project is managed in a **separate repository**.
 
-👉 Visit the backend repo here: ([https://github.com/private-backend-repo](https://github.com/NightWolf0506/Technovate2025BackEnd))
+👉 Visit the backend repo here: ([https://github.com/backend-repo](https://github.com/NightWolf0506/Technovate2025BackEnd))
 
 That repository includes: 
 
